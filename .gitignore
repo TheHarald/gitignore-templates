@@ -1,4 +1,4 @@
-#test file for React Apps
+#test file for Python
 *.log
-node_modules
+venv
 some
